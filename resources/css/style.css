@@ -1,0 +1,13 @@
+:root {
+    --background-color: white;
+    --text-color: black;
+}
+
+@font-face {
+    font-family: 'SpaceGrotesk';
+    src: url('SpaceGrotesk.ttf');
+}
+
+body {
+    font-family: 'SpaceGrotesk';
+}
